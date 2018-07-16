@@ -14,3 +14,10 @@ newvar <- 5
 myVar <- 7
 
 newvar <- newvar + myVar
+
+
+newstr<-foo+bar
+
+newvar <-7
+myvar<-5
+total<-newvar+new
