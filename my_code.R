@@ -2,4 +2,4 @@
 foo<- 'that'
 # include function
 bar<- 'this'
-foo+bar
+baz<-foo+bar
