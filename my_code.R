@@ -2,7 +2,7 @@
 foo<- 'that'
 # include function
 bar<- 'this'
-
+# Here is a new comment!
 newstr<-foo+bar
 
 newvar <-7
@@ -11,7 +11,7 @@ total<-newvar+new
 
 newvar <- 5
 
-myVar <- 7
+myVar <- 8
 
 newvar <- newvar + myVar
 
