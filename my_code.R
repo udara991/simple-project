@@ -8,3 +8,9 @@ newstr<-foo+bar
 newvar <-37
 new<-46
 total<-newvar+new
+
+newvar <- 5
+
+myVar <- 7
+
+newvar <- newvar + myVar
