@@ -1,4 +1,8 @@
 # this is a new file
-foo<- 42
+foo<- 'that'
+# include function
+bar<- 'this'
+
+newstr<-foo+bar
 
 newvar <-37
