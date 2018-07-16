@@ -19,12 +19,13 @@ this is an unoredered list:
     -subpoint 1
     -subpoint 2
 
-[a link](http://) to my webpage
-
-use the 'cd' command
-
 '''R
 foo <-function(arg1,arg2){
 <stuff>
 }
 '''
+
+[a link](http://) to my webpage
+
+use the 'cd' command
+
