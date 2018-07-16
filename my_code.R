@@ -6,3 +6,5 @@ bar<- 'this'
 newstr<-foo+bar
 
 newvar <-37
+new<-46
+total<-newvar+new
