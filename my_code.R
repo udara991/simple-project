@@ -5,8 +5,8 @@ bar<- 'this'
 
 newstr<-foo+bar
 
-newvar <-100
-new<-46
+newvar <-7
+myvar<-5
 total<-newvar+new
 
 newvar <- 5
@@ -14,3 +14,10 @@ newvar <- 5
 myVar <- 7
 
 newvar <- newvar + myVar
+
+
+newstr<-foo+bar
+
+newvar <-7
+myvar<-5
+total<-newvar+new
