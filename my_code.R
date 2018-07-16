@@ -1,4 +1,5 @@
 # this is a new file
-foo<- 1
+foo<- 'that'
 # include function
-if 
+bar<- 'this'
+foo+bar
