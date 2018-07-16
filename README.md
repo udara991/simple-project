@@ -13,19 +13,21 @@ this is an ordered list:
 1. second
 1. thrid
 
-this is an unoredered list:
--a point
--another point 
-    -subpoint 1
-    -subpoint 2
-
 '''R
 foo <-function(arg1,arg2){
 <stuff>
 }
 '''
 
+
+
+
+this is an unoredered list:
+-a point
+-another point
+    -subpoint 1
+    -subpoint 2
+
 [a link](http://) to my webpage
 
 use the 'cd' command
-
